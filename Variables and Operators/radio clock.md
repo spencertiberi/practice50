@@ -1,4 +1,4 @@
-# Sum and Product #1
+# Radio Clock
 
 ## Prerequisites
 None
